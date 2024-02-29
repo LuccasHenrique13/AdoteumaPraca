@@ -8,10 +8,10 @@ O projeto visa conscientizar a comunidade sobre a importância das praças e inc
 
 # Como usar: 
 
-Clone este repositório: git clone [ https://github.com/seu-usuario/swiftbuy.git](https://github.com/LuccasHenrique13/AdoteumaPraca.git)
+Clone este repositório: `git clone [ https://github.com/seu-usuario/swiftbuy.git](https://github.com/LuccasHenrique13/AdoteumaPraca.git)`
 
-Navegue até o diretório do projeto: cd AdoteumaPraca
+Navegue até o diretório do projeto: `cd AdoteumaPraca`
 
-Instale as dependências: npm install
+Instale as dependências: `npm install`
 
-Inicie o aplicativo: npm start
+Inicie o aplicativo: `npm start`
